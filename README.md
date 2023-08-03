@@ -17,3 +17,5 @@ Solution to connect to the bluetooth controller of strip LED.
 <https://tutorials-raspberrypi.com/connect-control-raspberry-pi-ws2812-rgb-led-strips/>
 
 <https://medium.com/@larsongb/using-a-raspberry-pi-to-control-leds-38731b9db4>
+
+<https://docs.arduino.cc/tutorials/nano-33-ble/bluetooth>
